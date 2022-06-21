@@ -4,9 +4,13 @@
   </div>
 </template>
 <script>
-export default {
-  name: 'App'
-}
+import { defineComponent } from '@vue/composition-api'
+
+export default defineComponent({
+  setup() {
+    
+  },
+})
 </script>
 
 <style lang="less" scoped></style>

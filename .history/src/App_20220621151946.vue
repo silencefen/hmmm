@@ -4,9 +4,10 @@
   </div>
 </template>
 <script>
-export default {
-  name: 'App'
-}
+
+export default ({
+ 
+})
 </script>
 
 <style lang="less" scoped></style>

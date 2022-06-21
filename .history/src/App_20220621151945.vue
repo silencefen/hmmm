@@ -4,9 +4,12 @@
   </div>
 </template>
 <script>
-export default {
-  name: 'App'
-}
+
+export default ({
+  setup() {
+    
+  },
+})
 </script>
 
 <style lang="less" scoped></style>
