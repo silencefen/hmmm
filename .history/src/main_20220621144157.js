@@ -10,7 +10,7 @@
  * Copyright (c) 2022 by '874847151@qq.com' '874847151@qq.com', All Rights Reserved.
  */
 import Vue from 'vue'
-import App from '@/App.vue'
+import App from './App.vue'
 import router from '@/router'
 import store from './store'
 
