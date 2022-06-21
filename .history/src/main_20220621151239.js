@@ -13,7 +13,10 @@ import Vue from 'vue'
 import App from '@/App.vue'
 import router from '@/router'
 import store from './store'
-import '@/plugins/element.js'
+// 导入 Element-ui
+import ElementUI from 'element-ui'
+// 导入 Element-ui的样式
+import 'element-ui/lib/theme-chalk/index.css'
 
 Vue.config.productionTip = false
 
