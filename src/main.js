@@ -16,7 +16,6 @@ import store from './store'
 import '@/plugins/element.js'
 
 Vue.config.productionTip = false
-
 new Vue({
   router,
   store,
